@@ -48,7 +48,7 @@ Pour installer et exécuter ce projet localement, suivez ces étapes :
     cd foodictive
     ```
 
-3. Ouvrez le fichier `index.html` dans votre navigateur préféré.
+3. Ouvrez le fichier `index.html` dans votre navigateur préféré. (clic droit "Open With Live Server")
 
 ## Utilisation
 
